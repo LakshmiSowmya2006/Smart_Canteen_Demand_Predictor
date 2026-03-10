@@ -1,0 +1,27 @@
+body{
+  margin:0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg,#3f63b9,#5a667b,#cdd2dc);
+  color:#e2e8f0;
+}
+.dashboard{
+  padding:40px;
+  min-height:100vh;
+}
+
+.page-title{
+  text-align:center;
+  color:#1e293b;
+  margin-bottom:30px;
+}
+
+@keyframes fadeIn{
+  from{
+    opacity:0;
+    transform:translateY(20px);
+  }
+  to{
+    opacity:1;
+    transform:translateY(0);
+  }
+}

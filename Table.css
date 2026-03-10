@@ -1,0 +1,44 @@
+table{
+
+  width:90%;
+
+  margin:auto;
+
+  margin-top:30px;
+
+  border-collapse:collapse;
+
+  background:white;
+
+  border-radius:10px;
+
+  overflow:hidden;
+
+  box-shadow:0 8px 20px rgba(0,0,0,0.08);
+}
+
+thead{
+
+  background:#2563eb;
+
+  color:white;
+}
+
+th,td{
+
+  padding:12px;
+
+  text-align:center;
+}
+
+tbody tr{
+
+  transition:0.2s;
+}
+
+tbody tr:hover{
+
+  background:#f1f5f9;
+
+  transform:scale(1.01);
+}
