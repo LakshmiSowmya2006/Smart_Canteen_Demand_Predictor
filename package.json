@@ -1,5 +1,6 @@
 {
   "name": "backend",
+  "homepage": "https://lakshmisowmya2006.github.io/Smart_Canteen_Demand_Predictor"
   "version": "1.0.0",
   "description": "",
   "main": "firebase.js",
